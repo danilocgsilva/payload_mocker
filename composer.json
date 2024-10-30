@@ -1,0 +1,16 @@
+{
+    "name": "danilocgsilva/payload_mocker",
+    "autoload": {
+        "psr-4": {
+            "Danilocgsilva\\JsonMocker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Danilo Carlos",
+            "email": "contact@danilocgsilva.me"
+        }
+    ],
+    "require": {},
+    "license": "MIT"
+}
